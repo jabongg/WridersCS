@@ -1,0 +1,6 @@
+{
+    "connectionString": "mongodb://jangu:mongolab_2016@ds015750.mlab.com:15750/wriders",
+    "apiUrl":  "http://localhost:3000/api",
+    "secret": "mongolab_2016",
+	"charset":"utf8"
+}
